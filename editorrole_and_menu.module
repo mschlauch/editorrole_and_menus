@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the editorrole and menu feature.
+ */
+
+include_once 'editorrole_and_menu.features.inc';
