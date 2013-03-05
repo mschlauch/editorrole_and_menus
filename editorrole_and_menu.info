@@ -1,9 +1,9 @@
 name = editorrole and menu
-description = editor role and navigation menu, 16.2.
+description = editor role and navigation menu, 5.3. angepasst an gwo
 core = 7.x
 package = Rhizomatic
 php = 5.2.4
-version = 7.x-1.4
+version = 7.x-1.6
 project = editorrole_and_menu
 dependencies[] = comment
 dependencies[] = ctools

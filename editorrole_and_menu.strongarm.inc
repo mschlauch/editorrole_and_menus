@@ -21,7 +21,7 @@ function editorrole_and_menu_strongarm() {
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
   $strongarm->name = 'statistics_day_timestamp';
-  $strongarm->value = 1361009862;
+  $strongarm->value = 1362497097;
   $export['statistics_day_timestamp'] = $strongarm;
 
   $strongarm = new stdClass();
